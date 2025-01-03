@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "1d140e726bbb1fe7",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fe746f5a9e1f57f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "691845c13b678f5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/authors/_index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b69e6bad3efc4db7",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ea22c3648c81937",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "926da0c8d83d257c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "269b66e5b9c0ea76",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "3568f2eaf1b45802",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6c2aee1376ebdfb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "52b2e1108789a008",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd4e44dcc0e056ce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/authors/_index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "_index 的反向链接列表"
+            }
+          },
+          {
+            "id": "ec89ac124d32c329",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/authors/_index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "_index 的出链列表"
+            }
+          },
+          {
+            "id": "01af41803b1fb631",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "911814df54be6446",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/authors/_index.md"
+              },
+              "icon": "lucide-list",
+              "title": "_index 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "691845c13b678f5e",
+  "lastOpenFiles": [
+    "public/想法/page/3/index.html",
+    "public/想法/page/3",
+    "public/tags/page/3/index.html",
+    "public/tags/page/3",
+    "public/series/page/3/index.html",
+    "public/series/page/3",
+    "public/docs/page/3/index.html",
+    "public/docs/page/3",
+    "public/guides/page/3/index.html",
+    "public/guides/page/3",
+    "public/samples/page/3/index.html",
+    "public/tags/advanced/featured_hu5248979035645093119.png",
+    "resources/_gen/images/tags/advanced/featured_hu5248979035645093119.png",
+    "content/_index.md",
+    "themes/blowfish/exampleSite/content/examples/blowfish-artist/_index.md",
+    "content/_index.zh-cn.md",
+    "_index.md",
+    "content/authors/_index.md",
+    "content/authors/_index.it.md",
+    "content/authors/_index.zh-cn.md",
+    "content/authors/_index.ja.md",
+    "content/想法/_index.md",
+    "content/想法/关于学习CG的一些想法/index.md",
+    "content/想法/关于学习CG的一些想法/featured.jpg",
+    "content/关于/index.md"
+  ]
+}
