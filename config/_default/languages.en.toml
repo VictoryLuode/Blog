@@ -17,7 +17,7 @@ title = ""
 [params.author]
   name = "VictoryLuode"
   image = "img/VictoryLuodeProf.png"
-  headline = " ###### Youtube大学毕业生"
+  headline = " ###### 一名Youtube大学毕业生"
   bio = "CG Artist"
   links = [
   { email = "mailto:victoryluode@outlook.com" },
