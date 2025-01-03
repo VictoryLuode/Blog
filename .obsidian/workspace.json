@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/authors/_index.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "_index"
             }
+          },
+          {
+            "id": "d6a8c1b644812d9d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,8 +173,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "691845c13b678f5e",
+  "active": "d6a8c1b644812d9d",
   "lastOpenFiles": [
+    "content/_index.md",
     "public/想法/page/3/index.html",
     "public/想法/page/3",
     "public/tags/page/3/index.html",
@@ -174,10 +186,8 @@
     "public/docs/page/3",
     "public/guides/page/3/index.html",
     "public/guides/page/3",
-    "public/samples/page/3/index.html",
     "public/tags/advanced/featured_hu5248979035645093119.png",
     "resources/_gen/images/tags/advanced/featured_hu5248979035645093119.png",
-    "content/_index.md",
     "themes/blowfish/exampleSite/content/examples/blowfish-artist/_index.md",
     "content/_index.zh-cn.md",
     "_index.md",
